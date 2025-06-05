@@ -69,8 +69,8 @@ We built 3 logistic regression models:
 
 **Anthony Partida**  
 Cal Poly, San Luis Obispo  
-📧 anthony.partida@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+Email: anthonypartida410@yahoo.com
+LinkedIn: www.linkedin.com/in/anthony-partida
 
 **Project Completion Date**
 **(3/17/2025)**
